@@ -10,16 +10,14 @@ This project is for Udacity Devops Nanodegree
 ### Set Block All Public Access to False
 ![](/screenshots/step2.png)
 
-### Step 3 - Add Bucket Policy to allow GetObject Access to All
+### Add Bucket Policy to allow GetObject Access to All
 ![](/screenshots/step3.png)
 
-### Step 4 - Configure Bucket to be used for Static Web Hosting
+### Step 3 - Configure Bucket to be used for Static Web Hosting
 ![](/screenshots/step4.png)
 
-### Step 5 - Distribute Website via Cloudfront
+### Step 4 - Distribute Website via Cloudfront
 ![](/screenshots/step5.png)
 
-### Step 6 - Access Website on WebBrowser
-
+### Step 5 - Access Website on WebBrowser
 Click on [Link to the Website](http://dzrqe4hoa4taz.cloudfront.net/index.html) to view it in the browser.
-

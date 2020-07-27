@@ -21,5 +21,5 @@ This project is for Udacity Devops Nanodegree
 
 ### Step 6 - Access Website on WebBrowser
 
-Click on [http://dzrqe4hoa4taz.cloudfront.net/index.html](CloudFront Link to Website) to view it in the browser.
+Click on [http://dzrqe4hoa4taz.cloudfront.net/index.html] (Link to Website) to view it in the browser.
 
